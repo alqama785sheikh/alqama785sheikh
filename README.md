@@ -1,5 +1,5 @@
 # 💫 I'm Muhammad Alqama Sheikh
-🔭 I’m currently not working anywhere; previously worked and now focusing on skill building  <br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and SQL  <br>👨‍💻 I have already learned C and C++  <br>🤝 I’m looking to collaborate on beginner friendly SQL and Programming projects  <br>💬 Ask me about C, C++, basic DSA, and SQL fundamentals  <br>⚡ Fun fact: I enjoy playing cricket in my free time<br>
+🔭 I’m currently not working anywhere; previously worked and now focusing on skill building  <br>🌱 I’m currently learning Data Structures & Algorithms (DSA) and SQL  <br>👨‍💻 I have already learned C and C++  <br>🤝 I’m looking to collaborate on beginner friendly SQL and Programming projects  <br>💬 Ask me about basic C, C++, DSA, and SQL fundamentals  <br>⚡ Fun fact: I enjoy playing cricket in my free time<br>
 
 
 ## 🌐 Connect With Me:
